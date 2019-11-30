@@ -1,0 +1,2 @@
+# SENSYN
+SENtence SYNonymity
