@@ -1,4 +1,4 @@
-#Sentence feature extractor
+#Sentence feature extractor for Task 2
 #Author: Siddharth Chandrasekar, Last Modified: 11/30/19 15:09 CST
 
 import nltk
