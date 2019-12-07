@@ -1,7 +1,7 @@
 # SENSYN
 *SENtence SYNonymity*
 
-Created by Siddharth Chandrasekar and Kavya Jampani, 2019
+Siddharth Chandrasekar and Kavya Jampani, 2019
 
 A Natural Language Processing engine to rank the similarity between two sentences on a scale of 1-5.
 
