@@ -1,6 +1,6 @@
 # SENSYN
-SENtence SYNonymity
-- Siddharth Chandrasekar and Kavya Jampani, 2019
+*SENtence SYNonymity*
+Created by Siddharth Chandrasekar and Kavya Jampani, 2019
 
 A Natural Language Processing engine to rank the similarity between two sentences on a scale of 1-5.
 Please do not plagiarize my code. You may use it as a reference but please make sure to cite it as a source in your bibliography.
