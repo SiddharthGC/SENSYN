@@ -5,8 +5,9 @@ SENtence SYNonymity
 A Natural Language Processing engine to rank the similarity between two sentences on a scale of 1-5.
 Please do not plagiarize my code. You may use it as a reference but please make sure to cite it as a source in your bibliography.
 
-INSTRUCTIONS
+SETUP
 -----------------------------------------------------------------
+
 Use the following steps to generate the following directories if not present
 -> Navigate to the project folder in command prompt
 -> mkdir data
@@ -14,7 +15,10 @@ Use the following steps to generate the following directories if not present
 -> mkdir data\\predictions
 -> mkdir data\\tmp
 train-set.txt,dev-set.txt,test-set.txt files present in data folder.
+
+INSTRUCTIONS
 ----------------------------------------------------------------
+
 1. Import the project into PyCharm or any IDE of your choice
 2. Mark the src/ folder as "Sources Root"
 3. Execute Task2.py
